@@ -18,5 +18,6 @@ class Titles extends React.Component {
 Titles.propTypes = {
     
 };
+//
 
 export default Titles
